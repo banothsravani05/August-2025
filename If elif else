@@ -1,0 +1,11 @@
+marks= int(input())
+if(marks>=90):
+    print("Grade A")
+if(marks>=70):
+    print("Grade B")
+if(marks>=50):
+    print("Grade C")
+if(marks>=35):
+    print("Grade D")
+else:
+    print("Fail")
